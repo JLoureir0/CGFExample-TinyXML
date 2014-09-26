@@ -1,7 +1,7 @@
 CGFExample-TinyXML
 ==================
 
-CGFExample with precompiled CGFLIB/GLUI/TINYXML
+CGFExample for linux with precompiled CGFLIB/GLUI/TINYXML in an Eclipse project.
 
 ## Installing dependencies:
 ``` bash
